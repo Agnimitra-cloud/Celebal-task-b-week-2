@@ -2,7 +2,7 @@
 
 #Project Overview
 
-This project involves database development tasks as part of my internship at Celebal Technology. The focus is on creating and managing SQL Server database objects including procedures, functions, views, and triggers.
+This project contains SQL  development tasks as part of my internship at Celebal Technology. It focuses on creating and managing SQL Server database objects including procedures, functions, views, and triggers.
 
  #Task Requirements
 
